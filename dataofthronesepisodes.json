@@ -1,0 +1,184 @@
+{"thrones":[
+  { "season":"1",
+    "typeofdeath": {
+        "Arrow": "1",
+        "Backstab": "1",
+        "Beaten": "0",
+        "Boar": "1",
+        "Burning": "2",
+        "Cheststab": "1",
+        "Choking": "0",
+        "Decapitation": "4",
+        "Door": "0",
+        "Drowning": "0",
+        "Eyestab": "1",
+        "Facestab": "1",
+        "Falling": null,
+        "Frozen": null,
+        "Giant": null,
+        "Gutted": null,
+        "Hanging": null,
+        "Headcrush": null,
+        "Horse": "1",
+        "MalformedBirth": "1"
+      }
+    },{
+      "season":"2",
+      "typeofdeath":  {
+        "Arrow": null,
+        "Backstab": "2",
+        "Beaten": null,
+        "Boar": null,
+        "Burning": "1",
+        "Cheststab": "1",
+        "Choking": null,
+        "Decapitation": "2",
+        "Door": null,
+        "Drowning": null,
+        "Eyestab": null,
+        "Facestab": "1",
+        "Falling": "1",
+        "Frozen": null,
+        "Giant": null,
+        "Gutted": "1",
+        "Hanging": null,
+        "Headcrush": "1",
+        "Horse": null,
+        "MalformedBirth": "1"
+      }
+    }
+  ,
+  {
+    "season":"3",
+    "typeofdeath":  {
+        "Arrow": "2",
+        "Backstab": "3",
+        "Beaten": null,
+        "Boar": null,
+        "Burning": "4",
+        "Cheststab": "4",
+        "Choking": null,
+        "Decapitation": "3",
+        "Door": null,
+        "Drowning": null,
+        "Eyestab": null,
+        "Facestab": null,
+        "Falling": null,
+        "Frozen": null,
+        "Giant": null,
+        "Gutted": null,
+        "Hanging": null,
+        "Headcrush": null,
+        "Horse": null,
+        "MalformedBirth": "1"
+      }
+    }
+  ,
+  {
+    "season":"4",
+    "typeofdeath":  {
+        "Arrow": "6",
+        "Backstab": null,
+        "Beaten": null,
+        "Boar": null,
+        "Burning": null,
+        "Cheststab": "1",
+        "Choking": "1",
+        "Decapitation": null,
+        "Door": null,
+        "Drowning": null,
+        "Eyestab": null,
+        "Facestab": "1",
+        "Falling": null,
+        "Frozen": null,
+        "Giant": "1",
+        "Gutted": null,
+        "Hanging": null,
+        "Headcrush": "2",
+        "Horse": null,
+        "MalformedBirth": "1"
+      }
+    }
+  ,
+  {
+    "season":"5",
+    "typeofdeath": {
+        "Arrow": "1",
+        "Backstab": null,
+        "Beaten": "1",
+        "Boar": null,
+        "Burning": "2",
+        "Cheststab": "4",
+        "Choking": null,
+        "Decapitation": "2",
+        "Door": null,
+        "Drowning": null,
+        "Eyestab": null,
+        "Facestab": "1",
+        "Falling": "1",
+        "Frozen": null,
+        "Giant": null,
+        "Gutted": null,
+        "Hanging": "1",
+        "Headcrush": null,
+        "Horse": null,
+        "MalformedBirth": "2"
+      }
+    }
+  ,
+  {
+    "season":"6",
+    "typeofdeath":  {
+        "Arrow": "2",
+        "Backstab": "2",
+        "Beaten": null,
+        "Boar": null,
+        "Burning": "4",
+        "Cheststab": "7",
+        "Choking": null,
+        "Decapitation": "1",
+        "Door": "1",
+        "Drowning": "1",
+        "Eyestab": null,
+        "Facestab": "1",
+        "Falling": "2",
+        "Frozen": null,
+        "Giant": "4",
+        "Gutted": "1",
+        "Hanging": "6",
+        "Headcrush": null,
+        "Horse": null,
+        "MalformedBirth": "1"
+      }
+    }
+ ,
+  {
+    "season":"7",
+    "typeofdeath":  {
+        "Arrow": null,
+        "Backstab": null,
+        "Beaten": null,
+        "Boar": null,
+        "Burning": "2",
+        "Cheststab": "5",
+        "Choking": "1",
+        "Decapitation": null,
+        "Door": null,
+        "Drowning": null,
+        "Eyestab": null,
+        "Facestab": null,
+        "Falling": null,
+        "Frozen": "1",
+        "Giant": null,
+        "Gutted": null,
+        "Hanging": null,
+        "Headcrush": null,
+        "Horse": null,
+        "MalformedBirth": null
+      }
+    }
+  
+]}
+
+
+  
